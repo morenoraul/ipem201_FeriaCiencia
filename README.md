@@ -1,4 +1,6 @@
-# ipem201_FeriaCiencia
+# IPEM 201 Leopoleo Marechal
+
+Feria de Ciencias
 
 +-------------+--------------------------------------------------------+
 | Título del  | Recorrida de Río Suquía y Parque Elisa. Exploración, |
